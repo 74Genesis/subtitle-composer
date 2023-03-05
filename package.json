@@ -24,6 +24,8 @@
   },
   "dependencies": {
     "@typescript-eslint/parser": "^5.54.0",
+    "@vime/core": "^5.4.0",
+    "@vime/vue-next": "^5.4.0",
     "lint": "^0.8.19"
   }
 }
